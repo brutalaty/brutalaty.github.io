@@ -1,0 +1,12 @@
+import{Q as i,b as c}from"./projects.4082f9d8.js";import{_ as l,a as n}from"./ProjectPageCard.54897a68.js";import{_ as r,y as m,s as _,t as d,u as e,v as t,A as g,D as s,J as a}from"./index.b1f4baed.js";import"./dom.c92bec02.js";import"./QBtn.f68306b0.js";const p={class:"flex flex-center"},k=["sizes"],h=["sizes"],u=["sizes"],f=m({__name:"PokerGameClockPage",setup(w){return(C,j)=>(_(),d(i,null,{default:e(()=>[t(l,{project:g(c)},null,8,["project"]),s("div",p,[t(n,null,{heading:e(()=>[a("Initial State")]),description:e(()=>[a(" This is how the game clock looks on load. All of the data is imported from the data.js file. This data.js file can be edited to your own needs, however, this game clock was built to be bundled with a desktop application. The desktop application dynamically sets the data files contents before launching the game clock. ")]),figure:e(({sizes:o})=>[s("img",{sizes:o,srcset:`
+              images/game-clock/start/Game-Clock_start_400.jpg   400w,
+              images/game-clock/start/Game-Clock_start_900.jpg   900w,
+              images/game-clock/start/Game-Clock_start_1200.jpg 1200w
+            `,src:"images/game-clock/start/Game-Clock_start_1200.jpg",alt:""},null,8,k)]),_:1}),t(n,null,{heading:e(()=>[a("Options Menu")]),description:e(()=>[a(" The options menu is opened and closed by clicking anywhere on game clock. The options allows for the manipulation of the timer, blinds up alarm and allows the tournament director to cycle through the current blindset and set which chips displayed. ")]),figure:e(({sizes:o})=>[s("img",{sizes:o,srcset:`
+              images/game-clock/options/Game-Clock_options_400.jpg   400w,
+              images/game-clock/options/Game-Clock_options_970.jpg   970w,
+              images/game-clock/options/Game-Clock_options_1200.jpg 1200w
+            `,src:"images/game-clock/options/Game-Clock_options_1200.jpg",alt:""},null,8,h)]),_:1}),t(n,null,{heading:e(()=>[a("A very long tournament")]),description:e(()=>[a(" If the tournament runs so long that there are no longer any blinds remaining, the timer component is removed and the last blind set is used indefinitely. ")]),figure:e(({sizes:o})=>[s("img",{sizes:o,srcset:`
+              images/game-clock/end/Game-Clock_end_400.jpg   400w,
+              images/game-clock/end/Game-Clock_end_1200.jpg 1200w
+            `,src:"images/game-clock/end/Game-Clock_end_1200.jpg",alt:""},null,8,u)]),_:1})])]),_:1}))}});var P=r(f,[["__scopeId","data-v-f42bffd8"]]);export{P as default};
