@@ -1,1 +1,0 @@
-import{_ as s,s as a,C as o,S as r,D as n,J as c}from"./index.b1f4baed.js";const t={},_={class:"info-card"},d=n("i",{class:"fa-solid fa-circle-info info-card-icon"},null,-1);function f(e,i){return a(),o("aside",_,[d,r(e.$slots,"default",{},()=>[c(" Info goes here ")])])}var u=s(t,[["render",f]]);export{u as I};
